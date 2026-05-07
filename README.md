@@ -8,12 +8,7 @@ Hardware is based on: Seeed Studio — SenseCAP Indicator D1 - https://www.seeed
 
 ## What it does
 
-<img src=images/example2.jpg width=200>
-<img src=images/example3.jpg width=200>
-<img src=images/example5.jpg width=200>
-<img src=images/example4.jpg width=200>
-<img src=images/example6.jpg width=200>
-<img src=images/example7.jpg width=200>
+<img src=images/example2.jpg width=200><img src=images/example3.jpg width=200><img src=images/example5.jpg width=200><img src=images/example4.jpg width=200><img src=images/example6.jpg width=200><img src=images/example7.jpg width=200>
 
 
 - **Live price** and **rolling 24h** open / high / low plus **% change** for a chosen EUR pair (e.g. BTC-EUR).
