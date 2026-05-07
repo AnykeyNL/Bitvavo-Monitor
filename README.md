@@ -6,6 +6,10 @@ Version 1.0 - May 7th 2026 - Initial release
 
 Hardware is based on: Seeed Studio — SenseCAP Indicator D1 - https://www.seeedstudio.com/SenseCAP-Indicator-D1-p-5643.html
 
+## Demo
+
+https://youtube.com/shorts/rs2AxUEtQ34?si=kvXED0Hs_FpiZ3fH
+
 ## What it does
 
 <img src=images/example2.jpg width=200><img src=images/example3.jpg width=200><img src=images/example5.jpg width=200><img src=images/example4.jpg width=200><img src=images/example6.jpg width=200><img src=images/example7.jpg width=200>
